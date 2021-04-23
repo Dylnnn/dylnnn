@@ -1,6 +1,8 @@
-👾👾👾 Hi i'm Dylan, i'm a Full-Stack JavaScript Developer. i've experience in Scrum proyects with React, Redux, Node, Express, postgreSQl, sequelize, MongoDB, Mongoose, GraphQl, Apollo Client, Tailwind CSS, among others. 👾👾👾
+Hi i'm Dylan 👨🏽‍💻, i'm a Full-Stack JavaScript Developer. I've experience in Scrum proyects with React, Redux, Node, Express, postgreSQl, sequelize, MongoDB, Mongoose, GraphQl, Apollo Client, Tailwind CSS, among others. 
 
-👨🏽‍💻👨🏽‍💻👨🏽‍💻
+https://user-images.githubusercontent.com/64186248/115883367-1602eb00-a424-11eb-9692-628904d34430.mp4
+
+🚀Henry Developer🚀
 <!--
 **Dylnnn/dylnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
