@@ -1,4 +1,4 @@
-### Hi i'm Dylan, i'm a Full-Stack JavaScript Developer. i've experience in Scrum proyects with React, Redux, Node, Express, postgreSQl, sequelize, MongoDB, Mongoose, GraphQl, Apollo Client, Tailwind CSS, among others. 👋
+👾👾👾 Hi i'm Dylan, i'm a Full-Stack JavaScript Developer. i've experience in Scrum proyects with React, Redux, Node, Express, postgreSQl, sequelize, MongoDB, Mongoose, GraphQl, Apollo Client, Tailwind CSS, among others. 👾👾👾
 
 
 <!--
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👾👾👾
