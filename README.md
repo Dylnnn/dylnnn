@@ -1,6 +1,6 @@
 Hi i'm Dylan 👨🏽‍💻, i'm a Full-Stack JavaScript Developer. I've experience in Scrum proyects with React, Redux, Node, Express, postgreSQl, sequelize, MongoDB, Mongoose, GraphQl, Apollo Client, Tailwind CSS, among others. 
 
-![Diseño sin título (1)](https://user-images.githubusercontent.com/64186248/115883801-9590ba00-a424-11eb-8c06-f047a21c84e5.gif "Title" {width=40px height=400px})
+![Diseño sin título (1)](https://user-images.githubusercontent.com/64186248/115883801-9590ba00-a424-11eb-8c06-f047a21c84e5.gif = 250x250)
 
 🚀Henry Developer🚀
 <!--
